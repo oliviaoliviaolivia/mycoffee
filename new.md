@@ -1,4 +1,4 @@
 
-~strikethru~
+~~strikethru~~
 
 
